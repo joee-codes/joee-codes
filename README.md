@@ -10,7 +10,7 @@
 </p>
 
 </div>
-<h3 align="center">Frontend Developer | React Native Developer | Data Science Enthusiast</h3>  
+<h3 align="center">Building Things From Scratch | Data Science Enthusiast</h3>  
 <p align="center">    
   <a href="https://www.linkedin.com/in/jyothi-l?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
   <a href="https://github.com/joee-codes" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -21,7 +21,7 @@
           
 ## 👨‍💻 About Me       
  
-I'm a passionate Frontend Developer with a strong focus on building cross-platform mobile applications using **React Native**. I enjoy crafting clean, user-friendly interfaces and have a growing interest in **Data Science**—leveraging data to uncover insights and solve real-world problems.
+Data Science undergraduate with a strong interest in Machine Learning, Data Analytics, And Software Development. Focused on Building practical, data-driven solution and streighthening problem-solving skills through continuous learning and hands-on projects.
 
 - 🎓 **Currently**: Frontend Developer Intern  
 - 📱 **Expertise**: React Native, React.js, JavaScript/TypeScript  
