@@ -23,8 +23,8 @@
  
 Data Science undergraduate with a strong interest in Machine Learning, Data Analytics, And Software Development. Focused on Building practical, data-driven solution and streighthening problem-solving skills through continuous learning and hands-on projects.
 
-- 🎓 **Currently**: Frontend Developer Intern  
-- 📱 **Expertise**: React Native, React.js, JavaScript/TypeScript  
+- 🎓 **Currently**: Building Fininsight   
+- 📱 **Expertise**: Python , Data analysis , Data visualisation 
 - 📊 **Exploring**: Data Analysis with Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - 🌱 **Learning Path**: Full-Stack Development & Data Analytics  
 - 🎯 **Goal**: Build impactful applications that blend great UX with data-driven decisions  
